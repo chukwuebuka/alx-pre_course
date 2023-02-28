@@ -1,1 +1,1 @@
-anther directory
+another directory
